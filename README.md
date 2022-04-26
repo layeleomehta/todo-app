@@ -1,2 +1,2 @@
 # todo-app
-Todo List app with Node, Express, Postgres and React
+Todo List app made using Node, Express, Postgres and React
